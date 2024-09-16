@@ -1,0 +1,211 @@
+{
+    "sites": [
+      {
+        "id": 1,
+        "title": "Apartment",
+        "description": "Luxurious apartments located in the heart of Chennai, offering world-class amenities and a modern lifestyle.Welcome to Jenny's Living Spaces, where elegance harmonizes with the beauty of nature. This prestigious community presents carefully designed properties in a sought-after area, ideal for crafting your ideal living space. Immerse yourself in upscale living within an environment that gives joy.",
+        "image": "/images/apartment.jpeg",
+        "location": "Chennai",
+        "plotPriceTitle": "Plot Price",
+        "plotPrice": "$50,000",
+        "squareFeetTitle":"Square Feet",
+        "squareFeet": "4.25 Acres",
+        "reraIdTitle": "RERA Id",
+        "reraId": "ID0023",
+        "plotSizeTitle":"Plot Size",
+        "plotSize": "32 Units",
+        "yearBuiltTitle":"Year Built",
+        "yearBuilt": "2000",
+        "features": [
+          "81 residential plots in overall land area of 3.36 acres xxxxxx yyyyy.",
+          "Plots ranging from 850 – 1900 Sq.Ft.",
+          "Very close to upcoming Medavakkam metro station",
+          "Easy access to Velachery Main Road and OMR",
+          "5 Mins from Fantastic Jeyachandran, Pallikaranai",
+          "7 Mins from Pallikaranai Bus Stand",
+          "10 Mins for National Institute of Ocean Technology",
+          "15 Mins for Velachery Railway Station",
+          "35 mins for Chennai International Airport"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "House Estate",
+        "description": "Beautiful and spacious house estates in Mumbai with easy access to schools, hospitals, and business hubs.",
+        "image": "/images/housevsp.jpeg",
+        "location": "Mumbai",
+        "plotPriceTitle": "Plot Price",
+        "plotPrice": "$80,000",
+        "squareFeetTitle":"Square Feet",
+        "squareFeet": "5 Acres",
+        "reraIdTitle": "RERA Id",
+        "reraId": "ID0024",
+        "plotSizeTitle":"Plot Size",
+        "plotSize": "40 Units",
+        "yearBuiltTitle":"Year Built",
+        "yearBuilt": "2005",
+        "features": [
+          "Well-connected to Mumbai's transport hubs",
+          "Gated community with 24x7 security",
+          "Community parks and gardens",
+          "Eco-friendly construction",
+          "5 Mins to XYZ Mall"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Office Space",
+        "description": "Premium office space in the center of Bangalore, ideal for startups and established businesses.",
+        "image": "/images/office.jpeg",
+        "location": "Bangalore",
+        "plotPriceTitle": "Plot Price",
+        "plotPrice": "$100,000",
+        "squareFeetTitle":"Square Feet",
+        "squareFeet": "3 Acres",
+        "reraIdTitle": "RERA Id",
+        "reraId": "ID0025",
+        "plotSizeTitle":"Plot Size",
+        "plotSize": "50 Units",
+        "yearBuiltTitle":"Year Built",
+        "yearBuilt": "2010",
+        "features": [
+          "Modern interiors with conference rooms",
+          "24x7 power backup and security",
+          "Cafeteria and break-out zones",
+          "Close to major IT parks",
+          "5 Mins to MG Road"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Land Area",
+        "description": "Available land plots in Hyderabad for residential and commercial use, ready for construction.",
+        "image": "/images/land.jpeg",
+        "location": "Hyderabad",
+        "plotPriceTitle": "Plot Price",
+        "plotPrice": "$60,000",
+        "squareFeetTitle":"Square Feet",
+        "squareFeet": "10 Acres",
+        "reraIdTitle": "RERA Id",
+        "reraId": "ID0026",
+        "plotSizeTitle":"Plot Size",
+        "plotSize": "100 Units",
+        "yearBuiltTitle":"Year Built",
+        "yearBuilt": "2020",
+        "features": [
+          "Suitable for both residential and commercial development",
+          "Wide roads and infrastructure",
+          "Close to educational institutions and business hubs",
+          "10 Mins to Hyderabad International Airport",
+          "15 Mins to Hitech City"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": 1,
+        "title": "ABC Apartments",
+        "description": "Modern apartments located in Chennai with all amenities for comfortable living.",
+        "location": "Chennai, TamilNadu",
+        "image": "/images/abc.png",
+        "plotPrice": "$40,000",
+        "squareFeet": "3 Acres",
+        "reraId": "ID0027",
+        "plotSize": "30 Units",
+        "yearBuilt": "2015",
+        "features": [
+          "Close to schools and shopping centers",
+          "Easy access to public transport",
+          "Gated community with 24x7 security"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "XYZ Estates",
+        "description": "Luxury estates in Mumbai offering green surroundings and high-end facilities.",
+        "location": "Chennai, TamilNadu",
+        "image": "/images/abc.png",
+        "plotPrice": "$90,000",
+        "squareFeet": "6 Acres",
+        "reraId": "ID0028",
+        "plotSize": "20 Units",
+        "yearBuilt": "2018",
+        "features": [
+          "Premium location with easy access to business districts",
+          "Green and peaceful surroundings",
+          "Clubhouse and gym facilities"
+        ]
+      },
+      
+     
+      {
+        "id": 5,
+        "title": "har Villas",
+        "description": "Exclusive villas in Bangalore with modern architecture and high-class amenities.",
+        "location": "Chennai, TamilNadu",
+        "image": "/images/abc.png",
+        "plotPrice": "$150,000",
+        "squareFeet": "4 Acres",
+        "reraId": "ID0030",
+        "plotSize": "10 Units",
+        "yearBuilt": "2022",
+        "features": [
+          "Luxury villas with private gardens",
+          "Close to IT parks and business centers",
+          "Exclusive gated community"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "gaya Villas",
+        "description": "Exclusive villas in Bangalore with modern architecture and high-class amenities.",
+        "location": "Chennai, TamilNadu",
+        "image": "/images/abc.png",
+        "plotPrice": "$150,000",
+        "squareFeet": "4 Acres",
+        "reraId": "ID0030",
+        "plotSize": "10 Units",
+        "yearBuilt": "2022",
+        "features": [
+          "Luxury villas with private gardens",
+          "Close to IT parks and business centers",
+          "Exclusive gated community"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "jaya Villas",
+        "description": "Exclusive villas in Bangalore with modern architecture and high-class amenities.",
+        "location": "Chennai, TamilNadu",
+        "image": "/images/abc.png",
+        "plotPrice": "$150,000",
+        "squareFeet": "4 Acres",
+        "reraId": "ID0030",
+        "plotSize": "10 Units",
+        "yearBuilt": "2022",
+        "features": [
+          "Luxury villas with private gardens",
+          "Close to IT parks and business centers",
+          "Exclusive gated community"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "moha Villas",
+        "description": "Exclusive villas in Bangalore with modern architecture and high-class amenities.",
+        "location": "Chennai, TamilNadu",
+        "image": "/images/abc.png",
+        "plotPrice": "$150,000",
+        "squareFeet": "4 Acres",
+        "reraId": "ID0030",
+        "plotSize": "10 Units",
+        "yearBuilt": "2022",
+        "features": [
+          "Luxury villas with private gardens",
+          "Close to IT parks and business centers",
+          "Exclusive gated community"
+        ]
+      }
+    ]
+  }
+  
